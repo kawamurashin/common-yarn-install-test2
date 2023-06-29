@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "build": "tsc -b"
+  },
   "dependencies": {
 
   }

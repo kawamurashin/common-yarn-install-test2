@@ -4,6 +4,8 @@
     "target": "es2020",
     "removeComments": true,
     "sourceMap": true,
+    "outDir": "./dist",
     "declaration": true,
+
   }
 }
