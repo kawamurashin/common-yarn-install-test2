@@ -1,4 +1,4 @@
-import {Utility} from "common/dist/util/utility";
+import {Utility} from "common/lib/util/utility";
 export class Main
 {
     public static start()
