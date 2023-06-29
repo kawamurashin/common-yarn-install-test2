@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2020",
+    "removeComments": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": ".",
+  },
+
+  "compileOnSave": true,
+  "include": [
+    "./src/**/*.ts",
+    "../common/src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

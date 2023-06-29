@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc -b",
+    "start": "node dist/main.js"
+  },
+  "dependencies": {
+    "@types/node": "^20.3.2",
+    "common": "../common",
+    "nodemon": "^2.0.22",
+    "typescript": "^5.1.3"
+  }
+}

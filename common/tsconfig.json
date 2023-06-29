@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2020",
+    "removeComments": true,
+    "sourceMap": true,
+    "declaration": true,
+  }
+}
